@@ -47,8 +47,8 @@ public class Notes {
     
     public static void scapeSequences(){
        String gretings = "Hello \"Isaac\"";
-       String tab = "\nHello Isaac";
-       String next = "Hello \tIsaac";
+       String next = "\nHello Isaac";
+       String tab = "Hello \tIsaac";
         System.out.println(gretings);       
         
     }
